@@ -11,7 +11,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author zeus
+ * @author Ing. Luis Navarro
  */
 public class Main {
 
